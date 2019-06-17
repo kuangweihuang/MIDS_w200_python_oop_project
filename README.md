@@ -4,7 +4,7 @@ Object Oriented Programming Project for W200 Python Fundamentals
 # WAH!-Gyu Farm Game
 
 ## 1. Introduction and Installation
-This project is a simple text-based game using Python and object oriented programming.  The [final report](w200_project1_Final_writeup-Kuangwei.pdf?raw=true) provides the details of the various classes and methods used to build the game, and the [design document](w200_project1_Design_doc-Kuangwei.pdf?raw=true) shows the initial design prior to coding.  A screenshot of the game can be found [below](#screenshoot).
+This project is a simple text-based game using Python and object oriented programming.  The [final report](w200_project1_Final_writeup-Kuangwei.pdf) provides the details of the various classes and methods used to build the game, and the [design document](w200_project1_Design_doc-Kuangwei.pdf) shows the initial design prior to coding.  A screenshot of the game can be found [below](#sample-screenshot).
 
 Download and run the program `wahgyu_farm.py`, and follow the in game instructions.  Should there be issues rendering UTF-8 characters particularly those denoting the music note “♫” (\u266b), run the program `wahgyu_farm_non_utf.py` instead. 
 
@@ -32,5 +32,5 @@ These cows are called WAH!-Gyu, and are true a marvel for sustainable meat produ
 	e.	Go to iTunes and buy a bunch of indie songs (+5 songs)
 8.	At the end of 10 turns, your dear WAH!-Gyu cows will be sent for slaughter and you will get scored by the owner of the farm, based on the sum of the marbling of all the cows under your charge.""")
 
-[### Sample Screenshot](#screenshot):
-![Alt text](screenshot_1.png?raw=true "Wah!-Gyu in game screenshot")
+## 4. Sample Screenshot
+![screenshot_1](screenshot_1.png?raw=true "Wah!-Gyu in game screenshot")
