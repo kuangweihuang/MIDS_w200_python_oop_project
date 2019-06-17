@@ -4,7 +4,7 @@ Object Oriented Programming Project for W200 Python Fundamentals
 # WAH!-Gyu Farm Game
 
 ## 1. Introduction and Installation
-This project is a simple text-based game using Python and object oriented programming.  The [final report](w200_project1_Final_writeup-Kuangwei.pdf) provides the details of the various classes and methods used to build the game, and the [design document](w200_project1_Design_doc-Kuangwei.pdf) shows the initial design prior to coding.  A screenshot of the game can be found [below](#sample-screenshot).
+This project is a simple text-based game using Python and object oriented programming.  The [final report](w200_project1_Final_writeup-Kuangwei.pdf) provides the details of the various classes and methods used to build the game, and the [design document](w200_project1_Design_doc-Kuangwei.pdf) shows the initial design prior to coding.  A screenshot of the game can be found [below](#4-sample-screenshot).
 
 Download and run the program `wahgyu_farm.py`, and follow the in game instructions.  Should there be issues rendering UTF-8 characters particularly those denoting the music note “♫” (\u266b), run the program `wahgyu_farm_non_utf.py` instead. 
 
